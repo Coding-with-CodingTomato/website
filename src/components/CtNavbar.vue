@@ -10,6 +10,7 @@ import CtLogo from '../assets/CtLogo.png';
     <div class="item links">
       <RouterLink to="/">Startseite</RouterLink>
       <RouterLink to="/commands">Kommandos</RouterLink>
+      <a href="https://twitch.tv/codingtomato" target="_blank">Twitch↩️</a>
     </div>
   </div>
 </template>
